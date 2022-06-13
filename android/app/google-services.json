@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306046566080",
+    "project_id": "wuzzuf-pwds",
+    "storage_bucket": "wuzzuf-pwds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306046566080:android:0d0e2166c57770edd67725",
+        "android_client_info": {
+          "package_name": "com.example.wuzzuf_pwd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306046566080-j4k0sagb1k46uknraq2ugvrdlfgts4ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyColaNF6EKLz908e5D7QXGSFJn-ZAgC2NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306046566080-j4k0sagb1k46uknraq2ugvrdlfgts4ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
